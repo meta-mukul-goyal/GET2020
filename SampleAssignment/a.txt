@@ -1,2 +1,2 @@
-make a file
-new file is make
+create a file
+new file is create
